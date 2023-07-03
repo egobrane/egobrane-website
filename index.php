@@ -7,10 +7,10 @@
     </head>
     <body>
         <?php
-        echo ("Hello");
+        echo ("PLEASE SHARE");
         ?>
         <div>
-            <img src="myPic.jpg" alt="myPic" />
+            <img src="grill.jpg" alt="myPic" />
         </div>
     </body>
 </html>
