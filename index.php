@@ -7,7 +7,7 @@
     </head>
     <body>
         <?php
-        echo ("PLEASE SHARE");
+        echo ("PLEASE hi Jayden SHARE");
         ?>
         <div>
             <img src="grill.jpg" alt="myPic" />
