@@ -12,5 +12,10 @@
         <div>
             <img src="grill.jpg" alt="myPic" />
         </div>
+        <div>
+            <?php
+            echo '<a href="https://github.com/egobrane/">my GithubM/a>';
+            ?>
+        </div>
     </body>
 </html>
