@@ -14,7 +14,7 @@
         </div>
         <div>
             <?php
-            echo '<a href="https://github.com/egobrane/">my GithubM/a>';
+            echo '<a href="https://github.com/egobrane/">my Github</a>';
             ?>
         </div>
     </body>
